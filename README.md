@@ -5,4 +5,5 @@ The following project adds a searchbar to look through a dropdown list in 3PlayM
 
 ### How to Install
 To install this extension follow the following steps:
-...1.
+  1. Do this
+  2. Do that
